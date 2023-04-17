@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a3ec12f5b32f7994c91d2c3710a605a7
+timeCreated: 1661092449
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Minecraft Rus
+  fontNames:
+  - Minecraft Rus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

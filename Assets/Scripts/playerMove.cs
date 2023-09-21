@@ -76,7 +76,7 @@ public class playerMove : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.B) && onGround)
             _rigidbody.velocity = Vector2.up * jumpForce;
-    }
+    } 
 
     private void Turn()
     {
